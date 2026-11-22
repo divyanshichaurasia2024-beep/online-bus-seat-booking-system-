@@ -21,6 +21,7 @@ HOW TO RUN ACROSS MULTIPLE DEVICES OVER WI-FI
 ================================================================================
 
 PREREQUISITE:
+-------------
 - Both laptops/computers must be connected to the SAME Wi-Fi network or Mobile Hotspot.
 - Default Port: 5000
 
