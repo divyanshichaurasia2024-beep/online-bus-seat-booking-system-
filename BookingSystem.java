@@ -64,7 +64,7 @@ public class BookingSystem extends JFrame {
 
         connectToServer();
 
-        // Poll server every second so all connected computers stay in sync.
+        
         Timer timer = new Timer(1000, e -> syncSeatsFromServer());
         timer.start();
 
