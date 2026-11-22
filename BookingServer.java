@@ -16,7 +16,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 public class BookingServer {
     public static final int PORT = 5000;
-    public static final long HOLD_TIME = 15_000; // 15 seconds
+    public static final long HOLD_TIME = 15_000; 
 
     private final Map<String, Map<String, Seat>> trips = new ConcurrentHashMap<>();
 
